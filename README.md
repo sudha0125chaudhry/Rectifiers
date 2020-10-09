@@ -18,6 +18,6 @@
 </li>
 <li>Videos can be checked here on YouTube
 <ol type='a'>
-<li><a href='https://youtu.be/LK0h1Qx_1CI'>SSSEL Video 1</a></li>
-<li><a href='https://youtu.be/_y3nfhOn5z0'>SSSEL Video 2</a></li>
+<li><a href='https://www.youtube.com/watch?v=VPaCHGXXNEY'>Half Wave Rectifier</a></li>
+<li><a href='https://www.youtube.com/watch?v=HU1X4rV-6QY'>Full Wave Bridge Rectifier</a></li>
 </ol>
